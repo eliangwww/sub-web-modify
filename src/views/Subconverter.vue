@@ -338,7 +338,7 @@ export default {
           "suo.yt": "https://suo.yt/short",
         },
         customBackend: {
-          "BM-Phala后端【vless reality+hy1+hy2】": "https://37236c0a06029f4cfb3a74f95fb167176952734e-15051.dstack-prod8.phala.network/",
+          "BM-Phala后端【vless reality+hy1+hy2】": "https://37236c0a06029f4cfb3a74f95fb167176952734e-15051.dstack-prod8.phala.network",
           "BM猫云后端【vless reality+hy1+hy2】": "https://xcitlwztxuar.cloud.cloudcat.one",
           "CM负载均衡后端【vless reality+hy1+hy2】": "https://subapi.cmliussss.net",
           "CM应急备用后端【vless reality+hy1+hy2】": "https://subapi.fxxk.dedyn.io",
@@ -1308,5 +1308,6 @@ export default {
   }
 };
 </script>
+
 
 
