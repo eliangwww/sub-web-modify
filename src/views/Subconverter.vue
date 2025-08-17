@@ -346,7 +346,7 @@ export default {
           "肥羊备用后端【vless reality+hy1+hy2】": "https://sub.d1.mk",
         },
         backendOptions: [
-          { value: "https://37236c0a06029f4cfb3a74f95fb167176952734e-15051.dstack-prod8.phala.network/" },
+          { value: "https://37236c0a06029f4cfb3a74f95fb167176952734e-15051.dstack-prod8.phala.network" },
           { value: "https://xcitlwztxuar.cloud.cloudcat.one" },
           { value: "https://subapi.cmliussss.net" },
           { value: "https://subapi.fxxk.dedyn.io" },
@@ -1308,4 +1308,5 @@ export default {
   }
 };
 </script>
+
 
